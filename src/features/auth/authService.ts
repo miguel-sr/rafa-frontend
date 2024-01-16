@@ -1,7 +1,7 @@
 import axios from "axios";
 import { UserData, UserLoginRequest, UserUpdateRequest } from "./interface";
 
-const API_URL = "/api/users/";
+const API_URL = "https://mern-app-estanisalu.onrender.com/api/users/";
 
 
 
